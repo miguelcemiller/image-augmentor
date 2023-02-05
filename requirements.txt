@@ -1,0 +1,6 @@
+Augmentor==0.2.10
+colorama==0.4.6
+future==0.18.3
+numpy==1.24.1
+Pillow==9.4.0
+tqdm==4.64.1
